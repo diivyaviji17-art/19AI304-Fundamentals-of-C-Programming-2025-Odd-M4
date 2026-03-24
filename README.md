@@ -212,10 +212,11 @@ Thus, the program was implemented and executed successfully, and the required ou
 # Program:
 
 <img width="966" height="757" alt="Screenshot 2026-03-24 222106" src="https://github.com/user-attachments/assets/5ac3ef61-cdc4-4649-bfd6-af10a4f8feaa" />
-
-# Output:
-
 <img width="960" height="595" alt="Screenshot 2026-03-24 222139" src="https://github.com/user-attachments/assets/563f2a7d-9efe-4f03-8d35-e49b7a032f6d" />
+# Output:
+<img width="1049" height="314" alt="Screenshot 2026-03-24 223005" src="https://github.com/user-attachments/assets/2a536653-d153-4365-8efe-8889ab4d031f" />
+
+
 
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
